@@ -17,7 +17,7 @@ export const TRIPS: Trip[] = [
     departureTime: '06:00 صباحاً',
     price: 'تواصل للسعر',
     // صورة من الداخل توحي بالراحة والرفاهية (مقاعد واسعة)
-    image: 'https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?q=80&w=800&auto=format&fit=crop',
+    image: 'https://raw.githubusercontent.com/ShamyMedia/Shamy-Menu/refs/heads/main/images/solution-travel.jpg',
     features: ['تكييف هواء بارد', 'مقاعد VIP واسعة', 'واي فاي مجاني', 'وجبة ضيافة']
   },
   {
@@ -27,7 +27,7 @@ export const TRIPS: Trip[] = [
     departureTime: '07:00 صباحاً',
     price: 'تواصل للسعر',
     // صورة خارجية لباص حديث جداً وأنيق (يوحي بالحداثة والموثوقية)
-    image: 'https://images.unsplash.com/photo-1596436376362-617759b55539?q=80&w=800&auto=format&fit=crop',
+    image: 'https://raw.githubusercontent.com/ShamyMedia/Shamy-Menu/refs/heads/main/images/solution-travelb.jpg',
     features: ['أحدث موديلات الحافلات', 'وزن إضافي مسموح', 'شواحن USB لكل مقعد']
   },
   {
@@ -37,7 +37,7 @@ export const TRIPS: Trip[] = [
     departureTime: '08:30 مساءً',
     price: 'تواصل للسعر',
     // صورة للطريق وقت الغروب الذهبي (توحي بمتعة السفر وهدوء الطريق)
-    image: 'https://images.unsplash.com/photo-1519817914152-c2d2219b8a62?q=80&w=800&auto=format&fit=crop',
+    image: 'https://raw.githubusercontent.com/ShamyMedia/Shamy-Menu/refs/heads/main/images/solution-travelc.jpg',
     features: ['رحلة مباشرة وسريعة', 'سائقين ذوي خبرة', 'توقفات مريحة للصلاة']
   }
 ];
